@@ -20,7 +20,13 @@ Numerical Aperture measurement Jig
 ---
 ## Tabulation :
 
+
+
 <img width="1600" height="1516" alt="WhatsApp Image 2026-04-29 at 8 58 57 AM" src="https://github.com/user-attachments/assets/7a3136df-424a-40f2-8dca-5ac6695867cb" />
+
+
+
+
 
 ## Result
 
